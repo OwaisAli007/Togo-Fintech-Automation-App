@@ -1,0 +1,15 @@
+[
+  {
+    "device": {
+      "firstName": "LDPlayerTwo",
+      "automationName": "UiAutomator2",
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Infinix HOT 40",
+      "udid": "emulator-5554",
+      "autoGrantPermissions": "true",
+      "app": "D:/Axian Projects/Togo Automation Directory Framework/togo/apps/togo20.apk"
+    }
+  }
+]
+
